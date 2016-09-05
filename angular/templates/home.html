@@ -1,1 +1,7 @@
-<h1>Angular</h1>
+<h1>chat Angular</h1>
+<ul class="messages">
+  <li data-ng-repeat="message in messages">{{message.text}}</li>
+</ul>
+<form data-ng-submit="send()">
+  <input autocomplete="off" data-ng-model="message"/><button>Send</button>
+</form>
