@@ -1,0 +1,26 @@
+{
+  "name": "angular-chat-socket.io",
+  "version": "1.0.0",
+  "description": "A simple example of Angular app with socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/save91/angular-chat-socket.io.git"
+  },
+  "keywords": [
+    "angolar",
+    "socket"
+  ],
+  "author": "Saverio Tosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/save91/angular-chat-socket.io/issues"
+  },
+  "homepage": "https://github.com/save91/angular-chat-socket.io#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
