@@ -1,0 +1,21 @@
+{
+  "name": "angular-socket.io",
+  "homepage": "https://github.com/save91/angular-chat-socket.io",
+  "authors": [
+    "Saverio Tosi <saveriotosi@gmail.com>"
+  ],
+  "description": "Example of app with socket.io",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
